@@ -1,4 +1,4 @@
-from githubTest.calc import calc_out
+from calc import calc_out
 print('Hello world')
 print('A second world')
 
